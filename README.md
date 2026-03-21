@@ -8,7 +8,7 @@
 
 This repository contains the supplementary software codes and data for the book titled **"Modelling and Optimisation of Fluid-Particle Processes in Environmental Engineering"** published by Taylor & Francis. The repository provides detailed implementations in both Python and MATLAB to support the concepts and methodologies discussed in the book.
 
-![image alt](https://github.com/hollander196/Modelling-and-Optimisation-of-Fluid-Particle-Processes-in-Environmental-Engineering/blob/64e54bd4cde4ab128440888931fc65a67df04084/Book%20cover.jpg)
+![image alt](https://github.com/hollander196/hollander196-Modelling-and-Optimisation-of-Fluid-Particle-Processes-in-Environmental-Engineering/blob/0cfee4f53ed007032f02b5ea110e6eb192514e79/Book%20cover.jpg)
 
 
 ## 📚 Book Description
