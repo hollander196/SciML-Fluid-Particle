@@ -1,5 +1,18 @@
 # Chapter 8: Mathematical Modelling of the Effects of Compression of Fouling Layers as a Predictive Tool in Membrane Bioreactor Systems (MBR)
 
+- [Overview](#overview)
+- [Contents](#contents)
+- [Key Concepts](#key-concepts)
+- [Usage](#usage)
+- [Python Dependencies](#python-dependencies)
+- [Model Description](#model-description)
+- [Workflow](#workflow)
+- [Input Data Format](#input-data-format)
+- [Output](#output)
+- [Notes](#notes)
+- [Advanced Usage](#advanced-usage)
+- [References](#references)
+
 ## Overview
 
 This chapter presents mathematical modelling of the effects of compression of fouling layers as a predictive tool in membrane bioreactor (MBR) systems. The implementations demonstrate:
@@ -150,7 +163,7 @@ run('MATLAB_livescript.mlx')
 Runs all four steps interactively with inline outputs and plots.
 
 
-## Python Dependencies (see requirements file)
+## Python Dependencies
 
 - `numpy`
 - `scipy`
