@@ -1,5 +1,7 @@
 # Chapter 5: Numerical Simulation and Design Optimisation of Hydrodynamics and Mixing Process in a Stirred Tank Reactor (STR)
 
+## Table of Contents
+
 - [Overview](#overview)
 - [Contents](#contents)
 - [Key Concepts](#key-concepts)
