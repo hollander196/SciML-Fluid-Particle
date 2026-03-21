@@ -4,6 +4,19 @@
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2018b%2B-orange.svg)](https://www.mathworks.com/)
 
+- ![About](#about)
+- ![Book Description](#book-description)
+- ![Repository Structure](#repository-structure)
+- ![Tools and Technologies](#tools-and-technologies)
+- ![Getting Started](#getting-started)
+- ![Usage](#usage)
+- ![Data Sources](#data-sources)
+- ![Contributing](#contributing)
+- ![License](#license)
+- ![Contact](#contact)
+- ![Acknowledgments](#acknowledgments)
+- ![Citation](#citation)
+
 ## 📖 About
 
 This repository contains the supplementary software codes and data for the book titled **"Modelling and Optimisation of Fluid-Particle Processes in Environmental Engineering"** published by Taylor & Francis. The repository provides detailed implementations in both Python and MATLAB to support the concepts and methodologies discussed in the book.
