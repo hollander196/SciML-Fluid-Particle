@@ -227,6 +227,8 @@ The scripts provide:
 
 ## Notes
 
+- The Python and MATLAB scripts include commented sections for additional guidance.
+- Adjust file paths in scripts if necessary to match your directory structure.
 - Initial parameter guesses significantly affect optimisation convergence; multiple runs with different starting points are recommended.
 - Numba JIT compilation introduces a one-time overhead on the first call but provides ~10–100× speedup thereafter.
 - The `Jupyter_notebook.pdf` and `MATLAB_Livescript.pdf` provide pre-executed outputs and can be used for reference without running any code.
