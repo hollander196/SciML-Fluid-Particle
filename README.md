@@ -218,7 +218,7 @@ export('MATLAB_livescript.mlx', 'MATLAB_livescript.PDF');
 
 ## 📊 Data Sources
 
-The primary datasets for the mathematical modelling and optimisation described in Chapters 5 and 8 are included within the respective chapter directories. These datasets provide:
+The primary datasets for the mathematical modelling and optimisation described in Chapters 5 and 8 are provided in the dataset folder. These datasets provide:
 
 - Quantitative data from experimental measurements
 - Quantitative data from numerical simulations
