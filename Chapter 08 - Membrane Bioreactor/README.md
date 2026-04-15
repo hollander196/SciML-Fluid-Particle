@@ -85,7 +85,6 @@ The membrane fouling compression model includes six key parameters:
 
 #### Step (i) — Parameter Estimation
 ```bash
-cd Chapter 08 - Membrane Bioreactor/Python
 python Estimation_of_model_parameters.py
 ```
 
