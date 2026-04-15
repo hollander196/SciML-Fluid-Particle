@@ -82,7 +82,6 @@ The CFD data is stored in `Python/` and `MATLAB/`directory:
 
 #### Step (i) — Loading the CCD table from Excel File
 ```bash
-cd Chapter 05 - Stirred Tank Reactor/Python
 python Load_and_display_DoE_table.py
 ```
 
