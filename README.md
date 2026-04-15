@@ -117,7 +117,7 @@ pip install -r requirements.txt
 #### Python Example
 ```python
 # Navigate to Chapter 5 Python directory
-cd Chapter 05 - Stirred Tank Reactor/Python
+cd 'Chapter 05 - Stirred Tank Reactor/Python'
 
 # Run Load and display DoE script
 python Load_and_display_DoE.py
@@ -142,7 +142,7 @@ jupyter nbconvert Jupyter_notebook.ipynb --to PDF
 #### MATLAB Example
 ```matlab
 % Navigate to Chapter 5 MATLAB directory
-cd Chapter 05 - Stirred Tank Reactor/MATLAB
+cd "Chapter 05 - Stirred Tank Reactor/MATLAB"
 
 % Run Load and display DoE script
 run('Load_and_display_DoE.m')
@@ -169,7 +169,7 @@ export('MATLAB_livescript.mlx', 'MATLAB_livescript.PDF');
 #### Python Example
 ```python
 # Navigate to Chapter 8 Python directory
-cd Chapter 08 - Membrane Bioreactor/Python
+cd 'Chapter 08 - Membrane Bioreactor/Python'
 
 # Run the parameter estimation script
 python Estimation_of_model_parameters.py
@@ -194,7 +194,7 @@ jupyter nbconvert Jupyter_notebook.ipynb --to PDF
 #### MATLAB Example
 ```matlab
 % Navigate to Chapter 8 MATLAB directory
-cd Chapter 08 - Membrane Bioreactor/MATLAB
+cd "Chapter 08 - Membrane Bioreactor/MATLAB"
 
 % Run the parameter estimation script
 run('Estimation_of_model_parameters.m')
