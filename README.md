@@ -120,16 +120,16 @@ pip install -r requirements.txt
 cd 'Chapter 05 - Stirred Tank Reactor/Python'
 
 # Run Load and display DoE script
-python Load_and_display_DoE.py
+python "Load_and_display_DoE.py"
 
 # Run Compute mean effects and interaction script
-python Compute_mean_effects_and_interactions.py
+python "Compute_mean_effects_and_interactions.py"
 
 # Run create response surface and contour script
-python Create_response_surface_and_contour_plots.py
+python "Create_response_surface_and_contour_plots.py"
 
 # Run MOGA optimisation with polynomial script
-python MOGA_optimisation_with_polynomial.py
+python "MOGA_optimisation_with_polynomial.py"
 
 # Run the codes interactively in Jupyter Notebook on Jupyter server
 jupyter notebook Jupyter_notebook.ipynb 
@@ -172,16 +172,16 @@ export('MATLAB_livescript.mlx', 'MATLAB_livescript.PDF');
 cd 'Chapter 08 - Membrane Bioreactor/Python'
 
 # Run the parameter estimation script
-python Estimation_of_model_parameters.py
+python "Estimation_of_model_parameters.py"
 
 # Run the solving mathematical model equations script
-python Solving_mathematical_model_equations.py
+python "Solving_mathematical_model_equations.py"
 
 # Run prediction of flux decline script
-python Prediction_of_flux_decline.py
+python "Prediction_of_flux_decline.py"
 
 # Run prediction of pressure drop script
-python Prediction_of_pressure_drop.py
+python "Prediction_of_pressure_drop.py"
 
 # Run the codes interactively in Jupyter Notebook on Jupyter server
 jupyter notebook Jupyter_notebook.ipynb 
