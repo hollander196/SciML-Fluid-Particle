@@ -202,7 +202,7 @@ The model describes the numerical simulation and design optimisation of hydrodyn
 1. **Design Phase** — Load the CCD DoE table using `Load_and_display_DoE_table`
 2. **Effect Analysis** — Run `Compute_mean_effects_and_interactions` to compute mean and interaction effects and perform ANOVA
 3. **Response Surface Analysis** — Run `Response_surface_and_contour_plots` to create 3D surface and 2D contour plots for significant interactions
-4. **Optimisation** — Run `MOGA_optimisation_with_polynomial` or `MOGA_optimisation_with_kriging` to find Pareto-optimal operating parameters
+4. **Optimisation** — Run `MOGA_optimisation_with_polynomial' to find Pareto-optimal operating parameters
 
 ## Input Data Format
 
