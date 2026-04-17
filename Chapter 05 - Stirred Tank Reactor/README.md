@@ -82,7 +82,7 @@ The CFD data is stored in `Python/` and `MATLAB/`directory:
 
 #### Step (i) — Loading the CCD table from Excel File
 ```bash
-python Load_and_display_DoE_table.py
+python "Load_and_display_DoE_table.py"
 ```
 
 The script will:
@@ -91,21 +91,21 @@ The script will:
 
 #### Step (ii) — Compute Mean Effects and Interactions for Each Response.
 ```bash
-python Compute_mean_effects_and_interactions.py
+python "Compute_mean_effects_and_interactions.py"
 ```
 
 Compute the mean and interaction effects of the factors on the response, perform ANOVA to idenity significant terms.
 
 #### Step (iii) — Create 3D Response Surface and Contour Plots for Two Most Significant Factors
 ```bash
-python Response_surface_and_contour_plots.py
+python "Response_surface_and_contour_plots.py"
 ``
 
 Perform a response surface analysis and create a 3D response surface and 2D contour plots for the significant intercations.
 
 #### Step (iv) — Perform a MOGA optimisation using polynomial function for the desired responses
 ```matlab
-python MOGA_optisation_with_polynomial.py
+python "MOGA_optisation_with_polynomial.py"
 ``
 
 Fit a second degree polynomial function to the response surface and perform a MOGA optimisation for the desired responses.
